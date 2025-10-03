@@ -1,4 +1,4 @@
-Yeni Nesil V14 Private Botları:
+<span style="color: red;">Yeni Nesil V14 Private Botları:</span>
 
 Genel İçerik:
 1 Adet Supervisor 
